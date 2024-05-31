@@ -1,0 +1,60 @@
+body{
+    background-color: azure;
+}
+
+div{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+
+.tooltip {
+    position: auto;
+    display: inline-block;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    background-color: white;
+    color: blue;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    visibility: visible;
+}
+
+#m3{
+    width: 25%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 75%;
+    float: left;
+    margin-right: 20px;
+}
+
+p{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #00372C; 
+    margin-left: 20px;
+}
+
+iframe{
+    float: right;
+    max-width: 100%;
+    margin-left: 20px;
+}
+
+#ytvideo{
+    text-align: right;
+    margin-right: 120px;
+}
+
