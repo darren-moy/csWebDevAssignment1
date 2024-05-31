@@ -1,0 +1,34 @@
+body{
+    background-color: aquamarine;
+}
+#thinking{
+    max-height: 15%;
+    max-width: 15%;
+    display: block;
+    margin-right: auto;
+}
+
+#aboutme{
+    text-align: left;
+    display: block;
+    font-size: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+#car{
+    text-align: right;
+    display:block;
+    font-size: 30px;
+}
+
+#drift{
+    max-height: 30%;
+    max-width: 30%;
+    display: block;
+    margin-left: auto;
+}
+
