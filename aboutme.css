@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 70px;
+}
+
+#snowboard{
+    display: block;
+    margin: 0 auto;
+    height: 500px;
+    padding-left: 50px;
+}
+
+p{
+    text-align: center;
+    border-top:1px dotted;
+    margin-left:auto;
+    margin-right:auto;
+    width: 700px;
+    font-size: 17px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
