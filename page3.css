@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(137, 204, 235);
+}
 h1{
     text-align: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -13,3 +16,18 @@ h1{
     margin: 0 10px;
 }
 
+.unorderedlist{
+    text-align: center;
+    font-size: 25px;
+}
+
+.list{
+    display: inline-block;
+    padding: 0;
+    text-align: left;
+}
+
+#flowers{
+    display: block;
+    margin: 0 auto;
+}
